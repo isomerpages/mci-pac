@@ -14,11 +14,14 @@ sections:
       button: Apply PAC
       url: /contact-us/
       key_highlights:
-        - title: Apply for Press Accreditation Card (PAC)
-          description: ""
-          url: /sp-landingpage
         - title: Apply for Media Organisation Accreditation (MOA)
           description: ""
           url: /sp-landingpage
+        - title: Apply for Press Accreditation Card (PAC)
+          description: ""
+          url: /sp-landingpage
+        - title: Apply for Temp Press Accreditation Card (TPAC)
+          description: ""
+          url: /temp-pac
       variant: image
 ---
