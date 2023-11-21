@@ -7,9 +7,9 @@ links:
   - title: Services
     url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
     sublinks:
-      - title: Apply PAC
+      - title: Apply for PAC
         url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
-      - title: Apply MOA
+      - title: Apply for MOA
         url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
   - title: FAQ
     url: /faq
