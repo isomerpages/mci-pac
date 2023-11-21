@@ -4,9 +4,12 @@ links:
     url: /press-accreditation
   - title: News Reporting in Singapore
     url: /guidelines-for-news-reporting-in-singapore
-  - title: Apply PAC
-    url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
   - title: FAQ
     url: /faq
-  - title: Apply MOA
+  - title: Services
     url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
+    sublinks:
+      - title: Apply PAC
+        url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
+      - title: Apply MOA
+        url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
