@@ -11,7 +11,7 @@ The average processing time of a PAC application is two to four weeks. However, 
 
 ##### Q2: I have received my PAC. Why am I not receiving government press releases or media invitations?
 
-Upon receiving your PAC, please email the MCI Duty Officer at MCI_Duty_Officer@mci.gov.sg to be included into the mailing list to receive government press releases and media invitations.
+As soon as you have been accredited, you are required to email a request to our MCI Duty Officer at MCI_Duty_Officer@mci.gov.sg, to be included in the mailing list.
 
 ##### Q3: I am an accredited media personnel in Singapore. I plan to undertake freelance news reporting for other media organisations. Do I need to apply for another PAC?
 
@@ -39,6 +39,16 @@ For security reasons, MCI conducts a mass renewal exercise for PAC once every th
 
 ##### Q9: Why do I need to submit a police report for a lost PAC?
 
-The PAC is an official pass providing the holder with access to government information and events.  To prevent misuse of the card, MCI would require a police report on record as proof that the card has been lost.
+As the PAC is an official pass to government events, to prevent any misuse of the card, we would require a police report for our record to prove that it has been reported lost.
 
- 
+##### Q10: Why do I need to login with a SingPass?
+Login using SingPass (Singapore Personal Access) is required as it provides stronger security which can better protect your personal data. For more information, please refer to SingPass website (www.singpass.gov.sg).
+
+##### Q11: Why can’t an intern or contract staff apply for a PAC?
+We encourage full-fledged journalists to cover the events as interns and contract staff may not be conversant with our guidelines.
+
+##### Q12: How long does it take to process a PAC?
+The average time taken to process a PAC is between 2 to 4 weeks. However, processing time will be longer during the mass renewal exercise (which will be announced on the website) and certain government events.
+
+##### Q13: What is a Business Registration Number or UEN?
+UEN or Unique Entity Number is a standard identification number for entities to interact with government agencies. Depending on its nature, an entity may obtain a UEN by registering itself with an appropriate UEN issuance agency as listed in www.uen.gov.sg.
