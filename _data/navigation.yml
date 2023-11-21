@@ -5,11 +5,11 @@ links:
   - title: News Reporting in Singapore
     url: /guidelines-for-news-reporting-in-singapore
   - title: Services
-    url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
+    url: /sp-landingpage
     sublinks:
       - title: Apply for PAC
-        url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
+        url: /sp-landingpage
       - title: Apply for MOA
-        url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
+        url: /sp-landingpage
   - title: FAQ
     url: /faq
