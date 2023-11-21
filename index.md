@@ -17,8 +17,8 @@ sections:
         - title: Apply for Press Accreditation Card (PAC)
           description: ""
           url: /sp-landingpage
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Apply for Media Organisation Accreditation (MOA)
+          description: ""
+          url: /sp-landingpage
       variant: image
 ---
