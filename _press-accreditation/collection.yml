@@ -2,5 +2,5 @@ collections:
   press-accreditation:
     output: true
     order:
-      - Who can apply for Press Accreditation.md
       - About Press Accreditation.md
+      - Who can apply for Press Accreditation.md
