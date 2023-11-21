@@ -7,9 +7,11 @@ links:
   - title: Services
     url: /sp-landingpage
     sublinks:
-      - title: Apply for PAC
-        url: /sp-landingpage
       - title: Apply for MOA
         url: /sp-landingpage
+      - title: Apply for PAC
+        url: /sp-landingpage
+      - title: Apply for Temp PAC
+        url: https://form.gov.sg/654a076c6a695300119a0561
   - title: FAQ
     url: /faq
