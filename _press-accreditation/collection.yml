@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  press-accreditation:
     output: true
     order:
       - folder-page.md
