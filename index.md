@@ -22,6 +22,6 @@ sections:
           url: /sp-landingpage
         - title: Apply for Temp Press Accreditation Card (TPAC)
           description: ""
-          url: /temp-pac
+          url: https://form.gov.sg/654a076c6a695300119a0561
       variant: image
 ---
