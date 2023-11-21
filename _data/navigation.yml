@@ -8,3 +8,5 @@ links:
     url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
   - title: FAQ
     url: /faq
+  - title: Apply MOA
+    url: https://id.singpass.gov.sg/auth?client_id=dxj7iNIcNdlWSB00rzDvk2gFlRjpt3Xg&redirect_uri=https://www.paconline.mci.gov.sg/singpass/authenticate.aspx&scope=openid&response_type=code&state=y29MaiZN&nonce=8CCDE975933C53A2
