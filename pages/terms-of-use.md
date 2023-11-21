@@ -18,7 +18,7 @@ Thank you for visiting the PAC Online. By accessing and using this portal, you s
 
 **Privacy Policy**
 
-*   Click here to review this [Website Privacy Policy Statement](/privacy).
+*   Click here to review this [PAC Online Privacy Policy Statement](/privacy).
 
 **Restrictions on use of Materials**
 
