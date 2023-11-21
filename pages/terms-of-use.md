@@ -18,7 +18,7 @@ Thank you for visiting the PAC Online. By accessing and using this Portal, you s
 
 **Privacy Policy**
 
-*   Click here to review this [Website Privacy Policy Statement](https://www.paconline.mci.gov.sg/privacy-statement).
+*   Click here to review this [Website Privacy Policy Statement](/privacy).
 
 **Restrictions on use of Materials**
 
