@@ -11,7 +11,7 @@ Press Accreditation, issued by the Ministry of Communications and Information (M
 
 
 
-#### What is Press Accreditation?
+#### Benefits of PAC
 The holder of a valid Press Accreditation Card (PAC) will be identified as a bona fide media personnel reporting in Singapore. Accredited media personnel may:
 
 1. Request to be included in the Singapore Government Press Centre (SGPC) mailing list to receive the latest government press releases, speeches, and other press materials.
