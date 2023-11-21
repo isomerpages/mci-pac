@@ -1,5 +1,7 @@
 logo: /images/logo_mci.jpg
 links:
+  - title: Press Accreditation
+    collection: press-accreditation
   - title: News Reporting in Singapore
     url: /guidelines-for-news-reporting-in-singapore
   - title: Services
@@ -11,5 +13,3 @@ links:
         url: /sp-landingpage
   - title: FAQ
     url: /faq
-  - title: Press Accreditation
-    collection: press-accreditation
