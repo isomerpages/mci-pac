@@ -4,7 +4,7 @@ permalink: /tpac/
 variant: markdown
 description: ""
 ---
-## Do you already have a Singpass?
+## Do you have a Singpass?
 ## 
 
 #### * **[Yes](https://form.gov.sg/6554650c56b2b20012ba03a5)**
