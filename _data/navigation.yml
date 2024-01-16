@@ -4,14 +4,5 @@ links:
     collection: press-accreditation
   - title: News Reporting in Singapore
     url: /guidelines-for-news-reporting-in-singapore
-  - title: Services
-    url: /sp-landingpage
-    sublinks:
-      - title: Apply for MOA
-        url: /sp-landingpage
-      - title: Apply for PAC
-        url: /sp-landingpage
-      - title: Apply for TPAC
-        url: /tpac
   - title: FAQs
     url: /faqs/
