@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Press Accreditation Card (PAC) Online
-description: PAC Online is an digital service for media personnel from
-  accredited media organisations to apply for a Press Accreditation Card (PAC)
+title: MCI PAC Online
+description: "PAC Online is an online platform for media organisations and media
+  personnel to apply for Press Accreditation. "
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
 notification: PAC Online will be undergoing scheduled maintenance from 10 Feb
