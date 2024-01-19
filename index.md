@@ -40,9 +40,9 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           linktext: Learn more
-          url: ""
+          url: /faqs/
         - title: SG Press Centre
           description: ""
           linktext: Learn more
-          url: ""
+          url: https://www.sgpc.gov.sg/
 ---
