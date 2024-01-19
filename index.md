@@ -27,4 +27,22 @@ sections:
           description: Frequently Asked Questions
           url: /faqs/
       variant: image
+  - textcards:
+      title: Resources
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Guideline to News Reporting in Singapore
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: FAQs
+          description: Frequently Asked Questions
+          linktext: Learn more
+          url: ""
+        - title: SG Press Centre
+          description: ""
+          linktext: Learn more
+          url: ""
 ---
