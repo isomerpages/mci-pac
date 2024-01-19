@@ -25,6 +25,6 @@ sections:
           url: /tpac
         - title: FAQs
           description: Frequently Asked Questions
-          url: ""
+          url: /faqs/
       variant: image
 ---
