@@ -33,10 +33,10 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Guideline to News Reporting in Singapore
+        - title: Guidelines for News Reporting in Singapore
           description: ""
           linktext: Learn more
-          url: ""
+          url: /guidelines
         - title: FAQs
           description: Frequently Asked Questions
           linktext: Learn more
