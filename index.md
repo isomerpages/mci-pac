@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: MCI PAC Online
-description: "PAC Online is an online platform for media organisations and media
-  personnel to apply for Press Accreditation. "
+description: PAC Online is an online platform for media organisations and media
+  personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
 notification: PAC Online will be undergoing scheduled maintenance from 10 Feb
@@ -23,5 +23,8 @@ sections:
         - title: Apply for Temporary Press Accreditation Card (TPAC)
           description: ""
           url: /tpac
+        - title: FAQs
+          description: Frequently Asked Questions
+          url: ""
       variant: image
 ---
