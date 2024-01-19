@@ -1,4 +1,4 @@
-title: Press Accreditation Card (PAC) Online
+title: MCI PAC Online
 url: https://paconline.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,8 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: PAC Online is an digital service for media personnel from
-  accredited media organisations to apply for a Press Accreditation Card (PAC)
+description: "PAC Online is an online platform for media organisations and media
+  personnel to apply for Press Accreditation. "
 permalink: none
 baseurl: ""
 exclude:
