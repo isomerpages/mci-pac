@@ -29,9 +29,7 @@ sections:
       variant: image
   - textcards:
       title: Resources
-      subtitle: Add informational text
       id: textcards
-      description: Text card description
       cards:
         - title: Guidelines for News Reporting in Singapore
           description: ""
