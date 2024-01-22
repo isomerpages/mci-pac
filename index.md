@@ -10,7 +10,7 @@ notification: PAC Online will be undergoing scheduled maintenance from 10 Feb
   period.  We apologise for any inconvenience.
 sections:
   - hero:
-      background: /images/BANNER_Press.png
+      background: /images/Homepage_banner.png
       button: Apply PAC
       url: /contact-us/
       key_highlights:
