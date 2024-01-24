@@ -1,0 +1,7 @@
+collections:
+  press-accreditation:
+    output: true
+    order:
+      - About Press Accreditation.md
+      - Benefits of PAC.md
+      - Who can apply for Press Accreditation.md
