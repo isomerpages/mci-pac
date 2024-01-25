@@ -29,7 +29,7 @@ sections:
       variant: image
       backgroundColor: gray
   - textcards:
-      title: Resources
+      title: Useful Information
       id: textcards
       cards:
         - title: Guidelines for News Reporting in Singapore
