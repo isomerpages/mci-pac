@@ -9,4 +9,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce a enim sit amet n
 
 ### To begin, do you have a Singpass?
 
-[Yes](https://form.gov.sg/6554650c56b2b20012ba03a5)   /    [No](https://form.gov.sg/6560180253a532001203f5eb)
+[Yes](https://uat.form.gov.sg/65cc89c45004eabe31fdd1d6)   /    [No](https://uat.form.gov.sg/65cc8c3f5004eabe31fdd586)
