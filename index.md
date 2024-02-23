@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MCI PAC Online
+title: MCI Press Accreditation Online (PAC Online)
 description: PAC Online is an online platform for media organisations and media
   personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
