@@ -25,7 +25,7 @@ sections:
           url: /tpac
         - title: FAQs
           description: Frequently Asked Questions
-          url: /faq/
+          url: /faqs/
       variant: image
       backgroundColor: gray
   - textcards:
@@ -39,7 +39,7 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           linktext: Learn more
-          url: /faq/
+          url: /faqs/
         - title: SG Press Centre
           description: ""
           linktext: Learn more
