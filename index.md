@@ -39,7 +39,7 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           linktext: Learn more
-          url: /faqs/
+          url: /faq/
         - title: SG Press Centre
           description: ""
           linktext: Learn more
