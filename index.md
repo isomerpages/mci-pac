@@ -21,9 +21,6 @@ sections:
         - title: Apply for Press Accreditation Card (PAC)
           description: ""
           url: https://services.paconline.gov.sg/
-        - title: Apply for Temporary Press Accreditation Card (TPAC)
-          description: ""
-          url: /tpac
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
