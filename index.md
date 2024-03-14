@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: Apply for Media Organisation Accreditation (MOA)
           description: ""
-          url: https://services-origin-uat.paconline.gov.sg/
+          url: https://services.paconline.gov.sg/
         - title: Apply for Press Accreditation Card (PAC)
           description: ""
-          url: https://services-origin-uat.paconline.gov.sg/
+          url: https://services.paconline.gov.sg/
         - title: Apply for Temporary Press Accreditation Card (TPAC)
           description: ""
           url: /tpac
