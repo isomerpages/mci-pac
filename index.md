@@ -5,8 +5,10 @@ description: PAC Online is an online platform for media organisations and media
   personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
-notification: We've moved! PAC Online can now be found at
-  https://paconline.gov.sg, please update your bookmarks.
+notification: Please note that the new website address (URL) for Press
+  Accreditation Card Online has changed with effect from 21 March 2024 and is
+  now https://www.paconline.gov.sg. Users who have bookmarked the page may wish
+  to update your settings.
 sections:
   - hero:
       background: /images/Hero_banner_1.png
@@ -31,11 +33,6 @@ sections:
       title: Useful Information
       id: textcards
       cards:
-        - title: "We have moved! "
-          description: "Our new website address is https://www.paconline.gov.sg from 21
-            March 2024. "
-          linktext: Learn more
-          url: https://www.paconline.gov.sg.
         - title: Guidelines for News Reporting in Singapore
           description: ""
           linktext: Learn more
@@ -48,4 +45,6 @@ sections:
           description: ""
           linktext: Learn more
           url: https://www.sgpc.gov.sg/
+      description: We have moved! Our new website address is
+        https://www.paconline.gov.sg from 21 March 2024.
 ---
