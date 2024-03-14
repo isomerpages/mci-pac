@@ -31,6 +31,11 @@ sections:
       title: Useful Information
       id: textcards
       cards:
+        - title: "We have moved! "
+          description: "Our new website address is https://www.paconline.gov.sg from 21
+            March 2024. "
+          linktext: Learn more
+          url: https://www.paconline.gov.sg.
         - title: Guidelines for News Reporting in Singapore
           description: ""
           linktext: Learn more
