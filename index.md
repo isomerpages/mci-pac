@@ -6,7 +6,7 @@ description: PAC Online is an online platform for media organisations and media
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
 notification: We've moved! PAC Online website can now be found at
-  paconline.gov.sg, please update your bookmarks.
+  https://paconline.gov.sg, please update your bookmarks.
 sections:
   - hero:
       background: /images/Hero_banner_1.png
