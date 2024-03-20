@@ -1,10 +1,9 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
-faq: /faq/
+faq: /faqs/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+  facebook: https://www.facebook.com/SingaporeMCI
+  linkedin: https://www.linkedin.com/company/ministry-of-communications-and-information/
+  twitter: https://twitter.com/SingaporeMCI
+  youtube: https://www.youtube.com/user/MCIsingapore
+  instagram: https://www.instagram.com/singaporemci/
