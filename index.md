@@ -42,6 +42,6 @@ sections:
           linktext: Learn more
           url: https://www.sgpc.gov.sg/
       description: Please note that our new website address has changed with effect
-        from 21 March 2024 and is now https://www.paconline.gov.sg. Users who
-        have bookmarked the page may wish to update your settings.
+        from 21 March 2024 and is now https://paconline.gov.sg. Users who have
+        bookmarked the page may wish to update your settings.
 ---
