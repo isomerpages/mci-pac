@@ -5,9 +5,9 @@ description: PAC Online is an online platform for media organisations and media
   personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
-notification: "PACOnline is undergoing maintenance and currently not available.
+notification: PACOnline is undergoing maintenance and currently not available.
   Thank you for your understanding and we apologise for any inconvenience
-  caused. "
+  caused.
 sections:
   - hero:
       background: /images/Hero_banner_1.png
