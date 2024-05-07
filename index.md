@@ -16,10 +16,10 @@ sections:
       key_highlights:
         - title: Apply for Media Organisation Accreditation (MOA)
           description: ""
-          url: https://services.paconline.gov.sg/p=moa
+          url: https://services.paconline.gov.sg/
         - title: Apply for Press Accreditation Card (PAC)
           description: ""
-          url: https://services.paconline.gov.sg/p=pac
+          url: https://services.paconline.gov.sg/
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
