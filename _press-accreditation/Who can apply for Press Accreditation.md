@@ -16,7 +16,7 @@ The following organisations are not eligible to apply for press accreditation:
 
 ### Media Personnel
 
-Media personnel, such as editors, journalists, producers, photographers, and camera crew who are employed at accredited media organisations on a full-time basis and cover government events and briefings regularly can apply for a Press Accreditation Card (PAC).
+Media personnel, such as editors, journalists, producers, photographers, and camera crew who are employed at accredited media organisations on a full-time basis and cover government events and briefings regularly can apply for a Press Accreditation Card (PAC). Applications are considered on a case-by-case basis. 
 
 The following individuals are not eligible to apply for a PAC:
 
@@ -26,4 +26,4 @@ The following individuals are not eligible to apply for a PAC:
 
 ### Temporary Accreditation for Media Personnel
 
-A media personnel can apply for a Temporary PAC if he/she has been assigned by an accredited media organisation to cover a specific government event.
+A media personnel can apply for a Temporary PAC if he/she has been assigned by an accredited media organisation to cover a specific government event. Applications are considered on a case-by-case basis.
