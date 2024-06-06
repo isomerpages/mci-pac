@@ -5,9 +5,9 @@ description: PAC Online is an online platform for media organisations and media
   personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
-notification: Please note that our new website address has changed with effect
-  from 21 March 2024 and is now https://paconline.gov.sg. Users who have
-  bookmarked the page may wish to update your settings.
+notification: "PAC Online will be undergoing maintenance on 8 June 2024, 1pm to
+  4pm, and will not be available during this period. We apologise for any
+  inconvenience caused. "
 sections:
   - hero:
       background: /images/Hero_banner_1.png
