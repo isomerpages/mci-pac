@@ -5,9 +5,7 @@ description: PAC Online is an online platform for media organisations and media
   personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
-notification: PAC Online will be undergoing maintenance on 29 June 2024, 10am to
-  30 Jun, 7am and will not be available during this period. We apologise for any
-  inconvenience caused.
+notification: ""
 sections:
   - hero:
       background: /images/Hero_banner_1.png
