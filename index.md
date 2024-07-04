@@ -23,9 +23,6 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
-        - title: Papal Visit 2024
-          description: Press Accreditation
-          url: /papalvisit2024media/
       variant: image
       backgroundColor: gray
   - textcards:
