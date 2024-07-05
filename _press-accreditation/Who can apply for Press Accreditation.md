@@ -6,7 +6,7 @@ description: ""
 ---
 ### Media Organisations
 
-Local, as well as foreign media organisations based in Singapore can apply to MCI for press accreditation. Applications are considered on a case-by-case basis and takes into account how regularly, accurately, and responsibly the media organisations cover government news and events, as well as their reach and/or distribution.
+Local, as well as foreign media organisations based in Singapore can apply to MDDI for press accreditation. Applications are considered on a case-by-case basis and takes into account how regularly, accurately, and responsibly the media organisations cover government news and events, as well as their reach and/or distribution.
 
 The following organisations are not eligible to apply for press accreditation:
 
