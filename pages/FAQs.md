@@ -12,7 +12,7 @@ The average processing time of a PAC application is two to four weeks. However, 
 
 ##### Q2: I have received my PAC. Why am I not receiving government press releases or media invitations?
 
-As soon as you have been accredited, you are required to email a request to our MCI Duty Officer at MCI_Duty_Officer@mci.gov.sg, to be included in the mailing list.
+As soon as you have been accredited, you are required to email a request to our MDDI Duty Officer at MDDI_Duty_Officer@mddi.gov.sg, to be included in the mailing list.
 
 ##### Q3: I am an accredited media personnel in Singapore. I plan to undertake freelance news reporting for other media organisations. Do I need to apply for another PAC?
 
@@ -20,7 +20,7 @@ Each media personnel can only hold one PAC at any point. You cannot use your exi
 
 ##### Q4: I have been accredited some time back, but have not been renewing my PAC. Can I renew my PAC now?
 
-You will receive a renewal notification email from MCI 30 days before the expiry of your PAC to remind you to renew your accreditation. If your PAC has expired for more than 90 days, please submit a new application.
+You will receive a renewal notification email from MDDI 30 days before the expiry of your PAC to remind you to renew your accreditation. If your PAC has expired for more than 90 days, please submit a new application.
 
 ##### Q5: I am a journalist based outside of Singapore. Do I need to apply for press accreditation if I plan to travel to Singapore to conduct news reporting?
 
@@ -32,11 +32,11 @@ You are required to have a valid Employment Pass before you can apply for a PAC.
 
 ##### Q7: Who should I contact if I need a PAC urgently?
 
-Media personnel are reminded to buffer sufficient time for the PAC application process, and to renew their PACs in a timely manner. If you require urgent assistance, please email the MCI Duty Officer at MCI_Duty_Officer@mci.gov.sg .
+Media personnel are reminded to buffer sufficient time for the PAC application process, and to renew their PACs in a timely manner. If you require urgent assistance, please email the MDDI Duty Officer at MDDI_Duty_Officer@mddi.gov.sg .
 
 ##### Q8: Why is there a need for a Mass Renewal Exercise every three years?
 
-For security reasons, MCI conducts a mass renewal exercise for PAC once every three years, where all approved PAC applicants will be issued with a PAC of a new design.
+For security reasons, MDDI conducts a mass renewal exercise for PAC once every three years, where all approved PAC applicants will be issued with a PAC of a new design.
 
 ##### Q9: Why do I need to submit a police report for a lost PAC?
 
