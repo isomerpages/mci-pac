@@ -6,7 +6,7 @@ description: Press Accreditation for Papal Visit 2024
 ---
 <h3><strong>Press Accreditation for Pope Francis’ State Visit to Singapore</strong></h3>
 <p>The press accreditation application for the Papal Visit is now open from
-9 – 19 Jul 2024. Media personnels who are on assignment with a bona fide
+9 – 28 Jul 2024. Media personnels who are on assignment with a bona fide
 media organisation and wish to participate in the Papal Visit media programme
 and access the media centres can apply for press accreditation at <strong><a href="https://go.gov.sg/papalvisit2024media" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/papalvisit2024media</a>.</strong> Applications
 are considered on a case-by-case basis.</p>
@@ -33,12 +33,11 @@ to <strong><a href="http://www.go,gov.sg/papalvisit2024media" rel="noopener nore
 This is to prevent any misuse of the media pass as it is an official pass
 to the Papal Visit media programme.</p>
 <p>Please note that successful accreditation does not guarantee access to
-the Papal Visit media programme. Email instructions on the media opportunities
-will be sent separately. Should the number of interested media personnels
-exceed venue capacity, media pooling may be exercised.</p>
-<p>The Ministry of Digital Development and Information (MDDI)&nbsp; will
-facilitate the work pass exemption process only for foreign journalists
-who are successfully accredited for the visit. Please note that you will
-need to successfully clear customs immigration. For more information, you
-may visit the Ministry of Manpower's <strong><a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" rel="noopener noreferrer nofollow" target="_blank">website</a></strong>.</p>
+cover all elements of the Papal Visit media programme. Email instructions
+on the media opportunities will be sent separately. Should the number of
+interested media personnels exceed venue capacity, or if there are other
+operational constraints, media pooling may be exercised.</p>
+<p>The Ministry of Digital Development and Information (MDDI)&nbsp;will facilitate
+work pass exemption for foreign media successfully accredited to cover
+this Papal Visit. For more information, you may visit the Ministry of Manpower's <strong><a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" rel="noopener noreferrer nofollow" target="_blank">website</a></strong>.</p>
 <p>For enquiries, please contact <strong><a href="http://www.go,gov.sg/papalvisit2024media" rel="noopener noreferrer nofollow" target="_blank">papalvisit2024_accreditation@mddi.gov.sg</a></strong>.</p>
