@@ -6,7 +6,7 @@ description: Press Accreditation for Papal Visit 2024
 ---
 <h3><strong>Press Accreditation for Pope Francis’ State Visit to Singapore</strong></h3>
 <p>The press accreditation application for the Papal Visit is now open from
-9 – 28 Jul 2024. Media personnels who are on assignment with a bona fide
+9 – 28 Jul 2024. Media personnel who are on assignment with a bona fide
 media organisation and wish to participate in the Papal Visit media programme
 and access the media centres can apply for press accreditation at <strong><a href="https://go.gov.sg/papalvisit2024media" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/papalvisit2024media</a>.</strong> Applications
 are considered on a case-by-case basis.</p>
@@ -35,7 +35,7 @@ to the Papal Visit media programme.</p>
 <p>Please note that successful accreditation does not guarantee access to
 cover all elements of the Papal Visit media programme. Email instructions
 on the media opportunities will be sent separately. Should the number of
-interested media personnels exceed venue capacity, or if there are other
+interested media personnel exceed venue capacity, or if there are other
 operational constraints, media pooling may be exercised.</p>
 <p>The Ministry of Digital Development and Information (MDDI)&nbsp;will facilitate
 work pass exemption for foreign media successfully accredited to cover
