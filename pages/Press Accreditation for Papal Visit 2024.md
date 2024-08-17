@@ -40,5 +40,5 @@ operational constraints, media pooling may be exercised.</p>
 <p>The Ministry of Digital Development and Information (MDDI)&nbsp;will facilitate
 work pass exemption for foreign media successfully accredited to cover
 this Papal Visit. For more information, you may visit the Ministry of Manpower's <strong><a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" rel="noopener noreferrer nofollow" target="_blank">website</a></strong>.</p>
-<p>For enquiries, please contact <a href="mailto:papalvisit2024_accreditation@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">papalvisit2024_accreditation@mddi.gov.sg. </a>
+<p>For enquiries, please contact <a href="mailto:papalvisit2024_accreditation@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">papalvisit2024_accreditation@mddi.gov.sg.</a>
 </p>
