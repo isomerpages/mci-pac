@@ -5,7 +5,7 @@ description: PAC Online is an online platform for media organisations and media
   personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
-notification: PAC Online will be undergoing maintenance from 29 Sep 2024, 12am
+notification: PAC Online will be undergoing maintenance from 27 Oct 2024, 12am
   to 8am and will not be available during this period. We apologise for any
   inconvenience caused.
 sections:
@@ -23,9 +23,6 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
-        - title: Papal Visit 2024
-          description: Apply for Press Accreditation
-          url: /papalvisit2024media/
       variant: image
       backgroundColor: gray
   - textcards:
