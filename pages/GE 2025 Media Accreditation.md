@@ -41,7 +41,7 @@ details/documents (non-exhaustive) will be required for application:</p>
 </ul>
 <p><em>*For media organisations endorsing more than 1 applicant, applicants may attach the same endorsement letter in your application forms.</em>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Those whose TPAC applications have been approved will be provided email
 instructions on the collection details of their TPACs.</p>
