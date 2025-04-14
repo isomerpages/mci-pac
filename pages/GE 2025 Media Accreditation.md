@@ -46,16 +46,20 @@ details/documents (non-exhaustive) will be required for application:</p>
 Those whose TPAC applications have been approved will be provided email
 instructions on the collection details of their TPACs.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Foreign media personnel, based overseas, would need to apply for work pass
+exemption. Please note that they will need to successfully clear customs
+immigration. For more information, you may visit MOM's <a href="https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities" rel="noopener nofollow" target="_blank">website</a>.</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Successful accreditation does not guarantee access to cover all elements
 of the GE media programme. Email instructions on the media opportunities
 will be sent separately. Should the number of interested media personnels
 exceed venue capacity, or if there are other operational constraints, media
 pooling may be exercised.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-For enquiries related to press accreditation, please contact <a rel="noopener noreferrer nofollow" target="_blank">MDDI_PAC_Online@mddi.gov.sg</a>.</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-For media enquiries, please reach out to <a rel="noopener noreferrer nofollow" target="_blank">media@eld.gov.sg</a>.</p>
+For enquiries related to press accreditation, please contact <a rel="noopener noreferrer nofollow" target="_blank">MDDI_PAC_Online@mddi.gov.sg</a>.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For media enquiries, please reach out to <a rel="noopener noreferrer nofollow" target="_blank">media@eld.gov.sg</a>.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Thank you.</p>
 </td>
 </tr>
