@@ -2,6 +2,7 @@ collections:
   press-accreditation:
     output: true
     order:
+      - GE 2025 Media Accreditation.md
       - About Press Accreditation.md
       - Benefits of PAC.md
       - Who can apply for Press Accreditation.md
