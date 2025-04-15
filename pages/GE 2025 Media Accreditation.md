@@ -18,7 +18,8 @@ description: GE 2025 Media Accreditation
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Applications for Temporary Press Accreditation for the General Elections
-(GE) 2025 is now open from &lt;<em>W&gt; to &lt;W+1&gt;</em> at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ge2025tpac</a>.&nbsp;&nbsp;</p>
+(GE) 2025 is now open from <strong>15 April 2025 to 16 April 2025</strong> at
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ge2025tpac</a>.&nbsp;&nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 All personnel who have a valid Press Accreditation Card (PAC) with the
 Ministry of Digital Development and Information would be considered accredited
