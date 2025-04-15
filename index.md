@@ -23,6 +23,9 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
+        - title: GE 2025 Media Accreditation
+          description: Key Highlight description
+          url: /ge-2025-media-accreditation/
       variant: image
       backgroundColor: gray
   - textcards:
