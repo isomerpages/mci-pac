@@ -8,8 +8,8 @@ permalink: /
 notification: PAC Online will be undergoing sceduled maintenance from 27 April
   2025, 12am to 8am and will not be available during this period. We apologise
   for any inconvenience. Government officials will NEVER ask you to transfer
-  money or disclose banking details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+  money or disclose bank log-in details over a phone call. Call the 24/7
+  ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/Hero_banner_1.png
