@@ -15,8 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: PAC Online is an online platform for media organisations and media
-  personnel to apply for Press Accreditation.
+description: PAC Online is a platform for Singapore-based media organisations
+  and media personnel to apply for Press Accreditation.
 permalink: none
 baseurl: ""
 exclude:
