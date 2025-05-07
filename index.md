@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Press Accreditation Card Online (PAC Online)
-description: PAC Online is an online platform for media organisations and media
-  personnel to apply for Press Accreditation.
+description: PAC Online is a platform for Singapore-based media organisations
+  and media personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
 notification: Government officials will NEVER ask you to transfer money or
@@ -23,9 +23,6 @@ sections:
         - title: FAQs
           description: Frequently Asked Questions
           url: /faqs/
-        - title: GE 2025 Media Accreditation
-          description: Apply here
-          url: /ge-2025-media-accreditation/
       variant: image
       backgroundColor: gray
   - textcards:

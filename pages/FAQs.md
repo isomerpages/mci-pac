@@ -2,7 +2,7 @@
 title: FAQs
 permalink: /faqs/
 variant: markdown
-description: ""
+description: Frequently asked questions about Press Accreditation in Singapore.
 ---
 ### **FAQ**
 

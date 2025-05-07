@@ -2,7 +2,7 @@
 title: Who can apply for Press Accreditation
 permalink: /who-can-apply/
 variant: markdown
-description: ""
+description: Find out if you are eligible to apply for Press Accreditation in Singapore.
 ---
 ### Media Organisations
 
