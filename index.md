@@ -5,7 +5,7 @@ description: PAC Online is a platform for Singapore-based media organisations
   and media personnel to apply for Press Accreditation.
 image: /images/BANNER_ApplyPAC1.JPG
 permalink: /
-notification: PAC Online will be undergoing scheduled maintenance from 25 May
+notification: PAC Online will be undergoing scheduled maintenance from 29 June
   2025, 12am to 8am and will not be available during this period. We apologise
   for any inconvenience. Government officials will NEVER ask you to transfer
   money or disclose bank log-in details over a phone call. Call the 24/7
